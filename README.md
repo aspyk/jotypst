@@ -2,6 +2,8 @@
 
 Render Typst snippets in the Markdown preview of Joplin desktop.
 
+![JoTypst rendering Typst snippets in Joplin](docs/preview.png)
+
 Install the [Typst CLI](https://typst.app/open-source/) and make sure the `typst` command is available to Joplin. Then write a fenced code block:
 
 ````markdown
