@@ -1,0 +1,16 @@
+{
+  "manifest_version": 1,
+  "id": "com.aspyk.jotypst",
+  "app_min_version": "3.7",
+  "version": "0.1.0",
+  "name": "JoTypst",
+  "description": "Render Typst snippets in the Joplin Markdown preview.",
+  "author": "aspyk",
+  "homepage_url": "https://github.com/aspyk/jotypst",
+  "repository_url": "https://github.com/aspyk/jotypst",
+  "keywords": ["typst", "markdown", "preview", "rendering"],
+  "categories": [],
+  "screenshots": [],
+  "icons": {},
+  "promo_tile": {}
+}

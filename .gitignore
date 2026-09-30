@@ -1,0 +1,11 @@
+# Installed dependencies and generated plugin output
+/node_modules/
+/dist/
+/publish/
+
+# Local logs and editor files
+*.log
+.DS_Store
+.vscode/
+.idea/
+.history/

@@ -1,0 +1,3 @@
+.typst-snippet .joplin-source { display: none; }
+.typst-snippet .typst-output svg { max-width: 100%; height: auto; }
+.typst-snippet .typst-error { color: var(--joplin-color-error, #c00); white-space: pre-wrap; }
